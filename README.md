@@ -4,4 +4,4 @@
 **Project 1**  
 Bike-sharing Prediction  
 **Working in Progress**  
-1st version: 09/06/2017
+1st version submit: 09/08/2017
