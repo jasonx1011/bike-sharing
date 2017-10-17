@@ -2,6 +2,6 @@
 
 **Deep Learning Foundation Nanodegree Program**  
 
-**Project 1: Bike-sharing Prediction**  
+**Project 1 (Neural Networks): Bike-sharing Prediction**  
   
 Completed
