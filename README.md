@@ -2,9 +2,11 @@
 
 **Deep Learning Foundation Nanodegree Program**  
 
-**Project 1 (Neural Networks): Bike-sharing Prediction**  
+**Project 1 (Neural Network):**  
   
-Completed
-
+**Bike-Sharing Prediction**  
+  
+Please see detail in python notebook (.ipynb)  
+  
 ![sample_plot_1](./assets/sample_plot_1.png)  
 ![sample_plot_2](./assets/sample_plot_2.png)  
