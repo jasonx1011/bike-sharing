@@ -1,10 +1,9 @@
-# first-neural-network  
+# bike-sharing  
 
-**Deep Learning Foundation Nanodegree Program**  
+**Bike-Sharing Prediction using Feedforward Neural Networks (FNNs)**  
 
-**Project 1 (Neural Network):**  
-  
-**Bike-Sharing Prediction**  
+**Summary**  
+Implemented MLP, SGD and backpropagation using Numpy to predict daily ridership, validation loss (MSE) = 0.14  
   
 Please see detail in python notebook (.ipynb)  
   
