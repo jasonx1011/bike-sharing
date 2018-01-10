@@ -5,7 +5,7 @@
 **Summary**  
 Implemented MLP, SGD and backpropagation using Numpy to predict daily ridership, validation loss (MSE) = 0.14  
   
-Please see detail in python notebook (.ipynb)  
+Please see detail in python [notebook](./bike.ipynb) (.ipynb)  
   
 **Sample Results:**  
 ![sample_plot_1](./assets/sample_plot_1.png)  
